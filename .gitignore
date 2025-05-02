@@ -51,3 +51,7 @@ pip-delete-this-directory.txt
 # Distutils build files
 *.egg-info
 .python-version
+.idea/
+.flake8
+masks.py
+
