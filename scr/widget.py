@@ -10,5 +10,3 @@ def get_date(date):
     date_formate = f'{date[8:10]}.{date[5:7]}.{date[:4]}'
     return date_formate
 
-print(mask_account_card('Maestro 1596837868705199'))
-print(get_date("2024-03-11T02:26:18.671407"))
